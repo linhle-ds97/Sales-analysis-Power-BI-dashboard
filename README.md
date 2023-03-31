@@ -12,3 +12,5 @@ We have 5 different datatasets as follows:
 In 2018, there was a promotion campaign that a promo-code was applied.
 Tasks: The company wants to analyze the sales tranctions to (1) have an overview of its sales, (2) Dive deep into important metrics, (3) Figure out reasons, (4) Bring out recommendations to improve important metrics (some of those are selling price, margin profit)
 
+NOTE: This analysis is carried out directly by the use of DAX, Power Query, and PowerBI.
+
